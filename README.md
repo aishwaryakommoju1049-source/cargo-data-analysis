@@ -58,7 +58,7 @@ CSV / Cargo Data
 ![Login](screenshots/01_login.png)
 
 ### Sheet Editor
-![Sheet Editor](screenshots/02_sheet_editor_blank.png)
+![Sheet Editor](screenshots/05_sheet_editor.png)
 
 ## Sample Data
 
