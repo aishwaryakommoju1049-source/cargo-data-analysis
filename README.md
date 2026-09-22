@@ -73,7 +73,7 @@ Example fields:
 - Destination
 - Year
 
-No confidential Port Trust data should be uploaded to this repository.
+
 
 ## How to Run
 
